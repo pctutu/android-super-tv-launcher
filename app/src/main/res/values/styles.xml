@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.NoTitleBar">
+        <item name="android:fontFamily">sans</item><item name="android:colorAccent">#63D7FF</item>
+        <item name="android:windowBackground">#102333</item><item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:colorControlNormal">#D8EAF2</item><item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
